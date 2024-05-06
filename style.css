@@ -1,0 +1,27 @@
+body{
+    background: rgb(53, 31, 31);
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    color: crimson;
+}
+label{
+    color: crimson;
+}
+button{
+    color: antiquewhite;
+    background: crimson;
+    text-align: center;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+    border: none;
+    height: 30px;
+    width: 20%;
+}
+input{
+    width: 30%;
+    margin-top: 10px;
+}
